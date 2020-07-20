@@ -16,3 +16,11 @@
     
 </p>
 <hr>
+<p align="center">
+  <i><b>Let's keep in touch!</b></i>
+
+  <p align="center">
+    <a href="https://github.com/ErikGarfia/ErikGarfia/blob/master/1307Resume.pdf" alt="Twitter"><img src="https://github.com/ErikGarfia/ErikGarfia/blob/master/imgresume.png" height="45" width="45"></a>&nbsp;
+  </p>
+    
+</p>
