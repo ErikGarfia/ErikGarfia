@@ -1,5 +1,5 @@
 <p align="center">
-<img src="ErikG.gif" alt="Here my profile!">
+<img src="https://github.com/ErikGarfia/ErikGarfia/blob/master/ErikG.gif" alt="Here my profile!">
 </p>
 
 <hr>
