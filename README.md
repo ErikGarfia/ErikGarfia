@@ -17,10 +17,10 @@
 </p>
 <hr>
 <p align="center">
-  <i><b>Let's keep in touch!</b></i>
+  <i><b>You can know more about me or my projects, check out my work! :v:</b></i>
 
   <p align="center">
-    <a href="https://github.com/ErikGarfia/ErikGarfia/blob/master/1307Resume.pdf" alt="Twitter"><img src="https://github.com/ErikGarfia/ErikGarfia/blob/master/imgresume.png" height="45" width="45"></a>&nbsp;
+    <a href="https://github.com/ErikGarfia/ErikGarfia/blob/master/1307Resume.pdf" alt="Twitter"><img src="https://github.com/ErikGarfia/ErikGarfia/blob/master/imgresume.png" height="55" width="55"></a>&nbsp;
   </p>
     
 </p>
